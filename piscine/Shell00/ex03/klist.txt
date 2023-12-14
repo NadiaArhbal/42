@@ -1,0 +1,5 @@
+Credentials cache: API:138BD319-3BDF-489F-AA5B-F08B42C23C6C
+        Principal: narhbal@S19.BE
+
+  Issued                Expires               Principal
+Feb  2 15:35:26 2022  Feb  3 01:35:26 2022  krbtgt/S19.BE@S19.BE
